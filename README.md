@@ -346,5 +346,3 @@ Before you come to any conclusion, the door of the room blows out with a sharp s
 
 ***LOADING...***
 
-# T12S21
-# T12S21
